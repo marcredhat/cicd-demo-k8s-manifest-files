@@ -26,7 +26,7 @@
                             "containers": [
                                 {
                                     #"image": "mchisine/test:v0",
-                                    "image": danielfrg/seldon-mnist:0.2"
+                                    "image": "danielfrg/seldon-mnist:0.2",
                                     "imagePullPolicy": "IfNotPresent",
                                     "name": "simple-model",
                                     "resources": {
