@@ -10,7 +10,7 @@
     "spec": {
         "annotations": {
             "deployment_version": "v0",
-            "project_name": "Simple Model Prediction"
+            "project_name": "Simple Model Prediction Marc"
         },
         "name": "seldon-deployment",
         "oauth_key": "oauth-key",
